@@ -1,5 +1,7 @@
 # helloworld
 
+Basic project used for learning about the Vue.js framework.
+
 ## Project setup
 ```
 npm install
